@@ -10,7 +10,7 @@ import javax.swing.JTextField;
 class C04GUI extends JFrame {
 
 	C04GUI() {
-		super("두번째 프레임창입니다.");
+		super("4번째 프레임창입니다.");
 		setBounds(100, 100, 700, 700);
 
 //		panel

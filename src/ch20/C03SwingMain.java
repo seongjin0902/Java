@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 class C03GUI extends JFrame{
 	
 	C03GUI(){
-		super("두번째 프레임창입니다.");
+		super("3번째 프레임창입니다.");
 		setBounds(100, 100, 700, 700);
 		
 		JPanel panel=new JPanel();	//패널생성
