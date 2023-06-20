@@ -81,6 +81,7 @@ class GUI extends JFrame implements ActionListener, KeyListener {
 		btn1.setFont(new Font("굴림",Font.BOLD,12));
 		btn2.setFont(new Font("굴림",Font.BOLD,12));		
 		btn3.setFont(new Font("굴림",Font.BOLD,25));
+
 		
 		// Add_Panel_Component
 		panel.add(btn1);
